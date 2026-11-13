@@ -1,0 +1,6 @@
+{
+  "name": "Joguers de Cartas",
+  "description": "Jogue Truco Paulista, 21 e Paciência online no Joguers de Cartas. Sozinho, em dupla ou em grupo com chat integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
